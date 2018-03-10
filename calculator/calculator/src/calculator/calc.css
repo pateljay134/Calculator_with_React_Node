@@ -1,0 +1,32 @@
+.calculator{
+	width:500px;
+}
+
+.functionKeys{
+	background: #1A237E;
+	width:33.33%;
+	color:white;
+	padding: 20px;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.15), 0 2px 4px 0 rgba(0,0,0,0.24);
+	border-radius: 9px;
+}
+.digits{
+	background: #3f3f3f;
+	width:33.33%;
+	color:white;
+	padding: 20px;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.15), 0 2px 4px 0 rgba(0,0,0,0.24);
+	border-radius: 9px;
+}
+.display{
+	background-color:#7986CB;
+	color:White;
+	width:100%;
+	height: 40px;
+	font-size: 38px;
+	border-radius: 9px;
+	padding: 5px;
+}
+/*.keypad {
+	margin-top: 2px;
+}*/
