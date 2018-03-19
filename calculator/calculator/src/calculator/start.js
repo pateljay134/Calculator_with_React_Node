@@ -98,7 +98,7 @@ class Calculator extends React.Component{
 		return(
 			<form onSubmit ={this.handleSubmit}>
 				<div className="calculator">
-					<pre>{JSON.stringify(this.state,null,2)}</pre>
+					{/* <pre>{JSON.stringify(this.state,null,2)}</pre> */}
 					<Display textBoxValue = {this.state.value} />
 					<div className="keypad">
 						<div>
